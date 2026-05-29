@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:2563eb,100:0f172a&text=AI%20Smart%20Face%20Zoom&fontColor=ffffff&fontSize=40&fontAlignY=40&desc=Dynamic%20Face%20Tracking%20%26%20Auto-Zoom%20System&descAlignY=63&animation=twinkling" width="100%" />
+![AI Smart Face Zoom](https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=240&text=AI%20Smart%20Face%20Zoom&fontColor=ffffff&fontSize=40&fontAlignY=40&desc=Dynamic%20Face%20Tracking%20%26%20Auto-Zoom%20System&descAlignY=63&animation=twinkling)
 
 # 🔍 سامانه هوشمند تعقیب و زوم خودکار روی چهره  
 ## Smart Face Auto-Zoom System
