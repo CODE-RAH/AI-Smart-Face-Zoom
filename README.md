@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:2563eb,100:0f172a&text=AI%20Smart%20Face%20Zoom&fontColor=ffffff&fontSize=40&fontAlignY=40&desc=Dynamic%20Face%20Tracking%20%26%20Auto-Zoom%20System&descAlignY=63&animation=twinkling" width="100%" />
-
 # 🔍 سامانه هوشمند تعقیب و زوم خودکار روی چهره  
 ## Smart Face Auto-Zoom System
+
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![OpenCV](https://img.shields.io/badge/OpenCV-Computer__Vision-green?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org)
+[![CODE RAH](https://img.shields.io/badge/Developed__By-CODE__RAH-0f172a?style=for-the-badge)](https://t.me/code_rah)
 
 ### توسعه داده شده توسط تیم تخصصی CODE RAH 💻
 
